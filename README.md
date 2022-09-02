@@ -4,10 +4,11 @@ My name is Julio Garcia, I'm 19 years old and I live in Perú 🇵🇪
 
 ## :sparkles: Skills
 
-+ PostgreSQL
-+ React JS
-+ Next JS
-+ Node/Express JS
++ Front-end development using **HTML**, **CSS & Sass**, **Javacript & React with Next JS**
++ Backend development using **Node JS with Express Framework**
++ Database development using **PostgreSQL**, **MySQL**
++ Use of platforms like **Heroku**, **Firebase**, **Azure**
++ Automation development with **Python 3**
 
 ## :coffee: Contact
 
