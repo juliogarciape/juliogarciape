@@ -1,6 +1,6 @@
-## 🤠 <I'm a Full-Stack Developer/>
+# < I'm a Full-Stack Developer />
 
-My name is Julio Garcia, I'm 19 years old and I live in Perú 🇵🇪
+🤠 My name is Julio Garcia, I'm 19 years old and I live in Perú 🇵🇪
 
 ## :sparkles: Skills
 
