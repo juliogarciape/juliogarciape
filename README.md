@@ -24,11 +24,11 @@
     <li>Familiar with testing (Jest), Agile (Scrum), basic CI/CD, and best development practices</li>
 </ul>
 
-<h3>🚀 Published Projects</h3>
+<h3>🚀 Published Packages</h3>
 
-[![Kick-DL](https://img.shields.io/badge/Npm:_Kick--DL-500_downloads-5ce32d?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
+[![Kick-DL](https://img.shields.io/badge/Npm:_Kick--DL-500_downloads-44AF1F?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
+[![Kick-DL](https://img.shields.io/badge/Npm:_Crypi-300_Downloads-12ACF3?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
 [![Kick-DL](https://img.shields.io/badge/Npm:_Twitch--Rank-530_Downloads-8862cf?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
-[![Kick-DL](https://img.shields.io/badge/Npm:_Crypi-300_Downloads-yellow?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
 
 <h3>📝 Blog Posts</h3>
 
