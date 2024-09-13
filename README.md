@@ -33,8 +33,8 @@
 
 <h3>🚀 Published Packages (NPM)</h3>
 
-[![Kick-DL](https://img.shields.io/badge/Kick--DL-178_downloads-d83a7c?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
 [![Crypi](https://img.shields.io/badge/Crypi-214_Downloads-f7d746?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/crypi)
+[![Kick-DL](https://img.shields.io/badge/Kick--DL-178_downloads-d83a7c?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
 [![Twitch-Rank](https://img.shields.io/badge/Twitch--Rank-568_Downloads-a9fef7?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/twitch-rank)
 
 <h3>📊 Github Stats (@juliogarciape)</h3>
