@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hithere,I'mJulioCesarGarcia&fontSize=50&fontAlignY=40&desc=ImaWebSoftwareDeveloper&descAlignY=70&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=👋%20Hi%20there,%20I'm%20Julio%20Cesar%20Garcia&fontSize=45&fontAlignY=35&desc=Web%20Software%20Developer%20&descAlignY=60&descAlign=50"/>
 
-Hi, I'm Julio Cesar Garcia
-Hi there, i'm Eduar!
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=prs,issues,contribs&show_icons=true&theme=radical&locale=en&border_radius=0)
 
