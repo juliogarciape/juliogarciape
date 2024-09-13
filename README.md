@@ -2,28 +2,31 @@
     <h1>👋 Hi there, I'm Julio Cesar Garcia 🤠</h1>
 </div>
 
-<img align="right" height="auto" width="50%" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
+<img align="right" height="auto" width="45%" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
 
-<h3>About Me 💖</h3>
+<h3>💖 About Me</h3>
 
 <ul>
     <li>👨‍💻 I'm a Full Stack Developer</li>
     <li>🎓 I'm currently studying Computer Science</li>
     <li>🌱 I'm currently learning about GraphQL and AWS</li>
     <li>💬 Ask me about anything, I am happy to help</li>
+    <li>📖 **Computer Science** at **Universidad Nacional de San Agustín de Arequipa** (2019 - 2024)</li>
     <li>📫 How to reach me:
 </ul>
 
 <br/>
 
-<h2> Skills :star2: </h2>
+<h3>🌟 Technical Skills</h3>
 
-- Front-end development using **React**, **Next.js**, **TypeScript** and CSS (Tailwind, Sass) for styling
-- Backend development using **Node.js** (Express) for REST APIs and GraphQL, with **PostgreSQL** administration
-- Proficient in Git workflows, Docker for containerization, and basic knowledge of AWS
-- Familiar with testing (Jest), Agile (Scrum), basic CI/CD, and best development practices
+<ul>
+    <li>Front-end development using **React**, **Next.js**, **TypeScript** and CSS (Tailwind, Sass) for styling </li>
+    <li>Backend development using **Node.js** (Express) for REST APIs and GraphQL, with **PostgreSQL** administration </li>
+    <li> Proficient in Git workflows, Docker for containerization, and basic knowledge of AWS </li>
+    <li>Familiar with testing (Jest), Agile (Scrum), basic CI/CD, and best development practices</li>
+</ul>
 
-## Github Stats :chart_with_upwards_trend:
+<h3>📊 Github Stats</h3>
 
 <div align="center" width="100%">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliogarciape&show_icons=true&locale=en&theme=radical&layout=compact" alt="Github Stats"/>
@@ -31,7 +34,7 @@
     <img width="60%" src="https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=contribs&show_icons=true&theme=radical&locale=en&border_radius=0&include_all_commits=true&line_height=30" alt="Github Stats"/>
 </div>
 
-## Projects :rocket:
+<h3>🚀 Published Projects</h3>
 
 - [**Project 1**](https://)
 - [**Project 2**](https://)
@@ -41,11 +44,6 @@
 
 - [Title](https://)
 - [Title](https://)
-
-## Education 🎓
-
-- 📖 **Computer Science** at **Universidad Nacional de San Agustín de Arequipa** (2019 - 2024)
-
 
 ## Contact Me :earth_americas: 
 
