@@ -4,14 +4,17 @@
 
 ## About Me :sparkling_heart:
 
-<div align="center" with="100%">
-    <img height="auto" width="45%" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
+<div with="100%">
+    <ul>
+        <li>👨‍💻 I'm a Full Stack Developer</li>
+        <li>🎓 I'm currently studying Computer Science</li>
+        <li>🌱 I'm currently learning about GraphQL and AWS</li>
+        <li>💬 Ask me about anything, I am happy to help</li>
+        <li>📫 How to reach me:
+    </ul>
+    <img align="right" height="auto" width="45%" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
 </div>
 
-- I'm a Full Stack Developer
-- I have 21 years old
-- I from :peru:
-- I learnig from 12 years old
 
 ## Skills :star2:
 
