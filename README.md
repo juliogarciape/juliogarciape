@@ -19,7 +19,7 @@
 <ul>
     <li>Front-end: <b>React v18</b>, <b>Next.js v14</b>, <b>TypeScript v5</b>, <b>Tailwind CSS v3</b></li>
     <li>Backend: <b>Node.js v18</b>, <b>Express.js v5</b>,  GraphQL, PostgreSQL </li>
-    <li>  in Git, Docker, AWS testing (Jest), CI/CD</li>
+    <li>DevOps Tools: <b>Git</b>, <b>Docker</b>, <b>Testing (Jest)</b>, <b>CI/CD</b></li>
 </ul>
 
 <h3>📝 Recent Posts (Medium / Dev.to)</h3>
@@ -28,6 +28,7 @@
     <li><i><a href="">How to Get Started with Python - A beginner's guide to Python programming</a></i></li>
     <li><i><a href="">10 Tips for Effective Blogging - Strategies to improve your blogging skills</a></i></li>
     <li><i><a href="">Understanding Machine Learning - An introduction to the basics of machine learning</a></i></li>
+    <li><i><a href="">10 Tips for Effective Blogging - Strategies to improve your blogging skills</a></i></li>
 </ol>
 
 <h3>🚀 Published Packages (NPM)</h3>
