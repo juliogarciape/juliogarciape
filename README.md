@@ -1,5 +1,5 @@
 <div align="left">
-    <h1>👋 Hi there, I'm Julio Cesar Garcia 🤠</h1>
+    <h1>👋🤠 Hi there, I'm Julio Cesar Garcia</h1>
 </div>
 
 <img align="right" height="auto" width="35%" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
