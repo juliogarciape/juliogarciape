@@ -22,7 +22,7 @@
     <li>  in Git, Docker, AWS testing (Jest), CI/CD</li>
 </ul>
 
-<h3>📝 Recent Posts (Medium - Dev.to)</h3>
+<h3>📝 Recent Posts (Medium/Dev.to)</h3>
 
 <ol>
     <li><a href="">How to Get Started with Python</a> - A beginner's guide to Python programming</li>
@@ -55,8 +55,6 @@
 [![Slack](https://img.shields.io/badge/Slack-juliogarciape-5865F2?style=for-the-badge&logo=Slack&logoColor=white&labelColor=101010)]()
 [![Github](https://img.shields.io/badge/Github-Secondary-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![X](https://img.shields.io/badge/Twitter-juliogarciape-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/juliogarciape_)
-[![Medium](https://img.shields.io/badge/Medium-juliogarciape-FF4500?style=for-the-badge&logo=medium&logoColor=white&labelColor=101010)]()
-[![Dev.to](https://img.shields.io/badge/Dev.to-juliogarciape-1DA1F2?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]()
 [![Reddit](https://img.shields.io/badge/Reddit-juliogarciape-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=101010)]()
 [![Notion](https://img.shields.io/badge/Notion-juliogarciape-5865F2?style=for-the-badge&logo=Notion&logoColor=white&labelColor=101010)]()
 [![Paypal](https://img.shields.io/badge/Paypal-juliogarciape-5865F2?style=for-the-badge&logo=Paypal&logoColor=white&labelColor=101010)]()
