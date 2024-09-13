@@ -15,8 +15,6 @@
     <li>📫 How to reach me:
 </ul>
 
-<br/>
-
 <h3>🌟 Technical Skills</h3>
 
 <ul>
@@ -26,6 +24,17 @@
     <li>Familiar with testing (Jest), Agile (Scrum), basic CI/CD, and best development practices</li>
 </ul>
 
+<h3>🚀 Published Projects</h3>
+
+- [**Project 1**](https://)
+- [**Project 2**](https://)
+- [**Project 3**](https://)
+
+<h3>📝 Blog Posts</h3>
+
+- [Title](https://)
+- [Title](https://)
+
 <h3>📊 Github Stats</h3>
 
 <div align="center" width="100%">
@@ -34,18 +43,7 @@
     <img width="60%" src="https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=contribs&show_icons=true&theme=radical&locale=en&border_radius=0&include_all_commits=true&line_height=30" alt="Github Stats"/>
 </div>
 
-<h3>🚀 Published Projects</h3>
-
-- [**Project 1**](https://)
-- [**Project 2**](https://)
-- [**Project 3**](https://)
-
-## Latest Blog Posts :pencil:
-
-- [Title](https://)
-- [Title](https://)
-
-## Contact Me :earth_americas: 
+<h3>🌏 Contact Me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julio_Cesar_Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juliogarciape)
 [![WebSite](https://img.shields.io/badge/WebSite-juliogarciape.live-39E09B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=101010)](https://juliogarciape.live)
