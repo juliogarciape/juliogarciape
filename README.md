@@ -39,8 +39,8 @@
 
 <div align="center" width="100%">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliogarciape&show_icons=true&locale=en&theme=radical&layout=compact&hide_title=true" alt="Github Stats"/>
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=juliogarciape&theme=radical" alt="Github Stats"/>
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=contribs&show_icons=true&theme=radical&locale=en&border_radius=0&include_all_commits=true&line_height=30" alt="Github Stats"/>
+    <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=juliogarciape&theme=radical" alt="Github Stats"/>
+    <img width="55%" src="https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=contribs&show_icons=true&theme=radical&locale=en&border_radius=0&include_all_commits=true&line_height=30" alt="Github Stats"/>
 </div>
 
 <h3>🌏 Contact Me</h3>
