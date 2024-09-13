@@ -4,7 +4,7 @@
 
 <h2>About Me 💖</h2>
 
-<div with="100%">
+<div with="100%" height="300">
     <img align="right" height="auto" width="40%" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
     <ul>
         <li>👨‍💻 I'm a Full Stack Developer</li>
