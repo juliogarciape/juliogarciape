@@ -22,7 +22,7 @@
     <li>  in Git, Docker, AWS testing (Jest), CI/CD</li>
 </ul>
 
-<h3>📝 Recent Posts (Medium/Dev.to)</h3>
+<h3>📝 Recent Posts (Medium / Dev.to)</h3>
 
 <ol>
     <li><i><a href="">How to Get Started with Python - A beginner's guide to Python programming</a></i></li>
@@ -32,9 +32,9 @@
 
 <h3>🚀 Published Packages (NPM)</h3>
 
-[![Kick-DL](https://img.shields.io/badge/Kick--DL-500_downloads-44AF1F?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
-[![Kick-DL](https://img.shields.io/badge/Crypi-300_Downloads-12ACF3?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/crypi)
-[![Kick-DL](https://img.shields.io/badge/Twitch--Rank-530_Downloads-8862cf?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/twitch-rank)
+[![Kick-DL](https://img.shields.io/badge/Kick--DL-178_downloads-d83a7c?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
+[![Crypi](https://img.shields.io/badge/Crypi-214_Downloads-f7d746?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/crypi)
+[![Twitch-Rank](https://img.shields.io/badge/Twitch--Rank-568_Downloads-a9fef7?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/twitch-rank)
 
 <h3>📊 Github Stats (@juliogarciape)</h3>
 
