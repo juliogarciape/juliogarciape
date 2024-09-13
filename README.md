@@ -2,19 +2,21 @@
     <h1>👋 Hi there, I'm Julio Cesar Garcia 🤠</h1>
 </div>
 
+<br/>
+
+<img align="right" height="auto" width="40%" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
+
 <h2>About Me 💖</h2>
 
-<div with="100%" height="300">
-    <img align="right" height="auto" width="40%" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
-    <ul>
-        <li>👨‍💻 I'm a Full Stack Developer</li>
-        <li>🎓 I'm currently studying Computer Science</li>
-        <li>🌱 I'm currently learning about GraphQL and AWS</li>
-        <li>💬 Ask me about anything, I am happy to help</li>
-        <li>📫 How to reach me:
-    </ul>
-</div>
+<ul>
+    <li>👨‍💻 I'm a Full Stack Developer</li>
+    <li>🎓 I'm currently studying Computer Science</li>
+    <li>🌱 I'm currently learning about GraphQL and AWS</li>
+    <li>💬 Ask me about anything, I am happy to help</li>
+    <li>📫 How to reach me:
+</ul>
 
+<br/>
 
 <h2> Skills :star2: </h2>
 
