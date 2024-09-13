@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Hi%20there!%20I'm%20Julio%20Cesar%20Garcia&fontSize=45&fontAlignY=30&desc=%3EWeb%20Software%20Developer%20%3E&descAlignY=55&descSize=30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=👋%20Hi%20there!%20I'm%20Julio%20Cesar%20Garcia&fontSize=45&fontAlignY=30&desc=%3EWeb%20Software%20Developer%20%3E&descAlignY=55&descSize=30"/>
 
 </div>
+
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=prs,issues,contribs&show_icons=true&theme=radical&locale=en&border_radius=0)
 
