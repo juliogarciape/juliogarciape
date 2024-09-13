@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=👋%20Hi%20there,%20I'm%20Julio%20Cesar%20Garcia&fontSize=40&fontAlignY=25&desc=-%20Web%20Software%20Developer%20-&descAlignY=50&descSize=30"/>
 </div>
 
-<div style="display: flex; align-items: center; height: 300px;">
+<div style="display: grid; align-content: center; height: 300px;">
 
 <img align="left" height="auto" width="350px" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
 
