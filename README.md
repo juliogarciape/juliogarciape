@@ -2,15 +2,16 @@
     <h1>👋 Hi there, I'm Julio Cesar Garcia 🤠</h1>
 </div>
 
-<img align="right" height="auto" width="45%" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
+<img align="right" height="auto" width="40%" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
 
 <h3>💖 About Me</h3>
 
 <ul>
     <li>👨‍💻 I'm a Web Software Developer (Full Stack)</li>
-    <li>🎓 Proud member of the <a target="_blank" href="https://education.github.com/pack">GitHub Student Developer Program</a> enjoying free access to Pro features.</li>
     <li>🌱 I'm currently learning about GraphQL and AWS</li>
-    <li>🇵🇪 I'm 21 and from Peru.</li>
+    <li>🎓 Proud member of the <a target="_blank" href="https://education.github.com/pack">GitHub Student Developer Program</a> enjoying free access to Pro features</li>
+    <li>🎨 This year, I discovered contributing to open source and it might become my new favorite hobby</li>
+    <li></li>
 </ul>
 
 <h3>🌟 Technical Skills</h3>
