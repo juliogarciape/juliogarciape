@@ -18,8 +18,8 @@
 
 <ul>
     <li>Front-end: <b>React v18</b>, <b>Next.js v14</b>, <b>TypeScript v5</b>, <b>Tailwind CSS v3</b></li>
-    <li>Backend: <b>Node.js v18</b>, <b>Express.js v5</b>,  GraphQL, PostgreSQL </li>
-    <li>DevOps Tools: <b>Git</b>, <b>Docker (Compose)</b>, <b>Unit Testing</b>, <b>CI/CD</b></li>
+    <li>Backend: <b>Node.js v18</b>, <b>Express.js v5</b>, <b>GraphQL</b>, <b>PostgreSQL</b></li>
+    <li>DevOps: <b>Git</b>, <b>Docker (Compose)</b>, <b>Unit Testing</b>, <b>CI/CD (Actions)</b></li>
 </ul>
 
 <h3>📝 Recent Posts (Medium / Dev.to)</h3>
