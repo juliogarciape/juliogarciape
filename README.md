@@ -1,8 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Hi there, I'm Julio Cesar Garcia&fontSize=50&animation=fadeIn&fontAlignY=38&desc=👋 I'm a Web Software Developer&descAlignY=51&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hithere,I'mJulioCesarGarcia&fontSize=50&fontAlignY=40&desc=ImaWebSoftwareDeveloper&descAlignY=70&descAlign=50"/>
 
 Hi, I'm Julio Cesar Garcia
 Hi there, i'm Eduar!
