@@ -13,16 +13,16 @@
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliogarciape&show_icons=true&locale=en&theme=radical&layout=compact" alt="Github Stats"/>
 
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=juliogarciape&theme=radical" alt="Github Stats"/>
+
 </div>
 
 <br>
 <br>
 
-<!-- <img width="33%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=juliogarciape&theme=radical" alt="Github Stats"/> -->
 
 
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=👋%20Hi%20there,%20I'm%20Julio%20Cesar%20Garcia&fontSize=40&fontAlignY=25&desc=-%20Web%20Software%20Developer%20-&descAlignY=50&descSize=30"/> -->
 
 </div>
 
