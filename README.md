@@ -2,7 +2,7 @@
     <h1>👋 Hi there, I'm Julio Cesar Garcia 🤠</h1>
 </div>
 
-## About Me :sparkling_heart:
+<h2>About Me 💖</h2>
 
 <div with="100%">
     <ul>
@@ -16,7 +16,7 @@
 </div>
 
 
-## Skills :star2:
+<h2> Skills :star2: </h2>
 
 - Front-end development using **React**, **Next.js**, **TypeScript** and CSS (Tailwind, Sass) for styling
 - Backend development using **Node.js** (Express) for REST APIs and GraphQL, with **PostgreSQL** administration
