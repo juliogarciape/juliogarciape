@@ -1,50 +1,42 @@
 <div align="center">
-
-<h1>👋 Hi there, I'm Julio Cesar Garcia 🤠</h1>
-
-<img align="center" height="auto" width="250px" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
-
-<br/>
-<br/>
-
-<div align="center" width="100%">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliogarciape&show_icons=true&locale=en&theme=radical&layout=compact" alt="Github Stats"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=juliogarciape&theme=radical" alt="Github Stats"/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=contribs&show_icons=true&theme=radical&locale=en&border_radius=0&include_all_commits=true&line_height=30" alt="Github Stats"/>
-
+    <h1>👋 Hi there, I'm Julio Cesar Garcia 🤠</h1>
 </div>
-
-<br>
-<br>
-
-
-
-
-
-</div>
-
-
 
 ## About Me :sparkling_heart:
 
-- 🎓 [Your Education or Background]
+<div align="center" with="100%">
+    <img height="auto" width="45%" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
+</div>
 
-- 🌟 [Your Key Skills or Technologies]
+- I'm a Full Stack Developer
+- I have 21 years old
+- I from :peru:
+- I learnig from 12 years old
 
-- 🚀 [Your Current Projects or Goals]
-
-## Skills :nerd_face:
+## Skills :star2:
 
 - Front-end development using **React**, **Next.js**, **TypeScript** and CSS (Tailwind, Sass) for styling
 - Backend development using **Node.js** (Express) for REST APIs and GraphQL, with **PostgreSQL** administration
 - Proficient in Git workflows, Docker for containerization, and basic knowledge of AWS
 - Familiar with testing (Jest), Agile (Scrum), basic CI/CD, and best development practices
 
+## Github Stats :chart_with_upwards_trend:
 
+<div align="center" width="100%">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliogarciape&show_icons=true&locale=en&theme=radical&layout=compact" alt="Github Stats"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=juliogarciape&theme=radical" alt="Github Stats"/>
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=contribs&show_icons=true&theme=radical&locale=en&border_radius=0&include_all_commits=true&line_height=30" alt="Github Stats"/>
+</div>
 
+## Education 🎓
+
+- 📖 **Computer Science** at **Universidad Nacional de San Agustín de Arequipa** (2019 - 2024)
+
+## Projects :rocket:
+
+- [**Project 1**](https://)
+- [**Project 2**](https://)
+- [**Project 3**](https://)
 
 ## You find me too :busts_in_silhouette: 
 
