@@ -10,8 +10,8 @@
     <li>👨‍💻 I'm a Full Stack Software Developer</li>
     <li>🌱 Currently learning about AI and AWS</li>
     <li>🎓 Proud member of the <a target="_blank" href="https://education.github.com/pack">GitHub Student Developer Program</a></li>
-    <li>🎨 This year, I started enjoying contributing to open source</li>
-    <li></li>
+    <li>🤝 This year, I started enjoying contributing to open source</li>
+    <li>💼 Open to new opportunities in the tech industry</li>
 </ul>
 
 <h3>🌟 Technical Skills</h3>
@@ -45,7 +45,7 @@
     <img width="55%" src="https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=contribs&show_icons=true&theme=radical&locale=en&border_radius=0&include_all_commits=true&line_height=30" alt="Github Stats"/>
 </div>
 
-<h3>🔗 Contact Me</h3>
+<h3>🔔 Contact Me</h3>
 
 [![WebSite](https://img.shields.io/badge/WebSite-juliogarciape.live-39E09B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=101010)](https://juliogarciape.live)
 [![Gmail](https://img.shields.io/badge/Gmail-Personal-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)]()
