@@ -24,22 +24,16 @@
     <li>Familiar with testing (Jest),  basic CI/CD</li>
 </ul>
 
+<h3>📝 Blog Posts</h3>
+
+- [Title](https://)
+- [Title](https://)
+
 <h3>🚀 Published Packages</h3>
 
 [![Kick-DL](https://img.shields.io/badge/Npm:_Kick--DL-500_downloads-44AF1F?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
 [![Kick-DL](https://img.shields.io/badge/Npm:_Crypi-300_Downloads-12ACF3?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/crypi)
 [![Kick-DL](https://img.shields.io/badge/Npm:_Twitch--Rank-530_Downloads-8862cf?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/twitch-rank)
-
-<h3>📝 Blog Posts</h3>
-
-Readymade Badge
-[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@username)
-Customizable Badge
-[![Medium Badge](https://img.shields.io/badge/@username-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@username)](https://medium.com/@username)
-
-
-- [Title](https://)
-- [Title](https://)
 
 <h3>📊 Github Stats</h3>
 
