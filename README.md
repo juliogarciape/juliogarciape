@@ -2,7 +2,7 @@
     <h1>👋 Hi there, I'm Julio Cesar Garcia 🤠</h1>
 </div>
 
-<img align="right" height="auto" width="40%" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
+<img align="right" height="auto" width="35%" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
 
 <h3>💖 About Me</h3>
 
@@ -18,15 +18,17 @@
 
 <ul>
     <li>Front-end: <b>React v18</b>, <b>Next.js v14</b>, <b>TypeScript v5</b>, <b>Tailwind CSS v3</b></li>
-    <li>Backend: <b>Node.js v18</b>, <b>Express JS v5</b>,  GraphQL,  **PostgreSQL** </li>
-    <li> Proficient in Git workflows, Docker for containerization, and basic knowledge of AWS </li>
-    <li>Familiar with testing (Jest),  basic CI/CD</li>
+    <li>Backend: <b>Node.js v18</b>, <b>Express.js v5</b>,  GraphQL, PostgreSQL </li>
+    <li>  in Git, Docker, AWS testing (Jest), CI/CD</li>
 </ul>
 
-<h3>📝 Blog Posts</h3>
+<h3>📝 Recent Posts</h3>
 
-- [Title](https://)
-- [Title](https://)
+<ol>
+    <li><a href="">How to Get Started with Python</a> - A beginner's guide to Python programming</li>
+    <li><a href="">10 Tips for Effective Blogging</a> - Strategies to improve your blogging skills</li>
+    <li><a href="">Understanding Machine Learning</a> - An introduction to the basics of machine learning</li>
+</ol>
 
 <h3>🚀 Published Packages</h3>
 
