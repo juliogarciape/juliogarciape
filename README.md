@@ -27,9 +27,7 @@
 <h3>🚀 Published Projects</h3>
 
 [![Kick-DL](https://img.shields.io/badge/Npm:Kick--DL-Total_Downloads:900-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=101010)](https://www.npmjs.com/package/kick-dl)
-
 [![Kick-DL](https://img.shields.io/badge/Npm:Twitch--Rank-Total_Downloads:900-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=101010)](https://www.npmjs.com/package/kick-dl)
-
 [![Kick-DL](https://img.shields.io/badge/Npm:Crypi-juliogarciape.live-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=101010)](https://www.npmjs.com/package/kick-dl)
 
 <h3>📝 Blog Posts</h3>
