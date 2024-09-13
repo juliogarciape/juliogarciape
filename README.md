@@ -7,10 +7,10 @@
 <h3>💖 About Me</h3>
 
 <ul>
-    <li>👨‍💻 I'm a Web Software Developer (Full Stack)</li>
-    <li>🌱 I'm currently learning about GraphQL and AWS</li>
-    <li>🎓 Proud member of the <a target="_blank" href="https://education.github.com/pack">GitHub Student Developer Program</a> enjoying free access to Pro features</li>
-    <li>🎨 This year, I discovered contributing to open source and it might become my new favorite hobby</li>
+    <li>👨‍💻 I'm a Full Stack Software Developer</li>
+    <li>🌱 Currently learning about AI and AWS</li>
+    <li>🎓 Proud member of the <a target="_blank" href="https://education.github.com/pack">GitHub Student Developer Program</a></li>
+    <li>🎨 This year, I started enjoying contributing to open source</li>
     <li></li>
 </ul>
 
