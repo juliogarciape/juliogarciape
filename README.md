@@ -10,6 +10,17 @@
 
 <h1 align="center"> :wave: Hi there, i'm Eduar! 🙋‍♂️</h1>
 
+
+
+## About Me
+
+- 🎓 [Your Education or Background]
+
+- 🌟 [Your Key Skills or Technologies]
+
+- 🚀 [Your Current Projects or Goals]
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliogarciape&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)
 
 </div>
@@ -20,6 +31,9 @@
 - Backend development using **Node.js** (Express) for REST APIs and GraphQL, with **PostgreSQL** administration
 - Proficient in Git workflows, Docker for containerization, and basic knowledge of AWS
 - Familiar with testing (Jest), Agile (Scrum), basic CI/CD, and best development practices
+
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" />
+
 
 ## You find me too :busts_in_silhouette: 
 
