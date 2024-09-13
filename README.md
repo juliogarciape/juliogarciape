@@ -5,8 +5,8 @@
 <h2>About Me 💖</h2>
 
 <div with="100%">
-    <img align="right" height="auto" width="200px" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
-    <ul width="20%">
+    <img align="right" height="auto" width="40%" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
+    <ul>
         <li>👨‍💻 I'm a Full Stack Developer</li>
         <li>🎓 I'm currently studying Computer Science</li>
         <li>🌱 I'm currently learning about GraphQL and AWS</li>
