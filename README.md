@@ -1,8 +1,16 @@
-# 👋 Hi, I'm Julio Cesar Garcia 👨🏻‍💻
+<div align="center" width="200">
+
+![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Julio%20Cesar%20Garcia&fontSize=90)
+
+# :wave: Hi, I'm Julio Cesar Garcia 👨🏻‍💻
+
+<h1 align="center"> :wave: Hi there, i'm Eduar! 🙋‍♂️</h1>
 
 ## < Web Software Developer />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliogarciape&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)
+
+</div>
 
 ## Skills :nerd_face:
 
