@@ -1,12 +1,14 @@
-<div align="center" width="200">
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Hi there, I'm Julio Cesar Garcia&fontSize=50&animation=fadeIn&fontAlignY=38&desc=👋 I'm a Web Software Developer&descAlignY=51&descAlign=62"/>
 
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Julio%20Cesar%20Garcia&fontSize=90)
 
 # :wave: Hi, I'm Julio Cesar Garcia 👨🏻‍💻
 
 <h1 align="center"> :wave: Hi there, i'm Eduar! 🙋‍♂️</h1>
-
-## < Web Software Developer />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliogarciape&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)
 
