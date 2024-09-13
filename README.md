@@ -1,8 +1,13 @@
 <div align="center">
 
-<h1>👋 Hi there, I'm Julio Cesar Garcia</h1>
+<h1>👋 Hi there, I'm Julio Cesar Garcia 🤠</h1>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=contribs&show_icons=true&theme=radical&locale=en&border_radius=0&rank_icon=percentile&include_all_commits=true&line_height=30"/>
+<img align="center" height="auto" width="300px" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
+
+<br/>
+<br/>
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=contribs&show_icons=true&theme=radical&locale=en&border_radius=0&include_all_commits=true&line_height=30" alt="Github Stats"/>
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=👋%20Hi%20there,%20I'm%20Julio%20Cesar%20Garcia&fontSize=40&fontAlignY=25&desc=-%20Web%20Software%20Developer%20-&descAlignY=50&descSize=30"/> -->
 
@@ -10,7 +15,7 @@
 
 <div style="display: grid; align-items: center; height: 300px;">
 
-<img align="left" height="auto" width="350px" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
+
 
 
 
