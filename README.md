@@ -1,14 +1,12 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=👋%20Hi%20there,%20I'm%20Julio%20Cesar%20Garcia&fontSize=40&fontAlignY=25&desc=•%20Web%20Software%20Developer%20•&descAlignY=50&descSize=27"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=👋%20Hi%20there,%20I'm%20Julio%20Cesar%20Garcia&fontSize=40&fontAlignY=25&desc=-%20Web%20Software%20Developer%20-&descAlignY=50&descSize=27"/>
 </div>
 
+<img align="left" height="auto" width="200px" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" />
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=prs,issues,contribs&show_icons=true&theme=radical&locale=en&border_radius=0)
 
-<img align="right" height="auto" width="200px" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" />
 
 ## About Me
 
