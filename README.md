@@ -4,13 +4,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Hi there, I'm Julio Cesar Garcia&fontSize=50&animation=fadeIn&fontAlignY=38&desc=👋 I'm a Web Software Developer&descAlignY=51&descAlign=62"/>
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Julio%20Cesar%20Garcia&fontSize=90)
+Hi, I'm Julio Cesar Garcia
+Hi there, i'm Eduar!
 
-# :wave: Hi, I'm Julio Cesar Garcia 👨🏻‍💻
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=prs,issues,contribs&show_icons=true&theme=radical&locale=en&border_radius=10)
 
-<h1 align="center"> :wave: Hi there, i'm Eduar! 🙋‍♂️</h1>
-
-
+</div>
 
 ## About Me
 
@@ -19,11 +18,6 @@
 - 🌟 [Your Key Skills or Technologies]
 
 - 🚀 [Your Current Projects or Goals]
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliogarciape&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)
-
-</div>
 
 ## Skills :nerd_face:
 
