@@ -26,9 +26,9 @@
 
 <h3>🚀 Published Projects</h3>
 
-[![Kick-DL](https://img.shields.io/badge/Npm:Kick--DL-Total_Downloads:900-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=101010)](https://www.npmjs.com/package/kick-dl)
-[![Kick-DL](https://img.shields.io/badge/Npm:Twitch--Rank-Total_Downloads:900-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=101010)](https://www.npmjs.com/package/kick-dl)
-[![Kick-DL](https://img.shields.io/badge/Npm:Crypi-juliogarciape.live-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=101010)](https://www.npmjs.com/package/kick-dl)
+[![Kick-DL](https://img.shields.io/badge/Npm:_Kick--DL-500_downloads-5ce32d?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
+[![Kick-DL](https://img.shields.io/badge/Npm:_Twitch--Rank-530_Downloads-8862cf?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
+[![Kick-DL](https://img.shields.io/badge/Npm:_Crypi-300_Downloads-yellow?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
 
 <h3>📝 Blog Posts</h3>
 
@@ -56,7 +56,6 @@
 [![X](https://img.shields.io/badge/Twitter-juliogarciape-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/juliogarciape_)
 [![Medium](https://img.shields.io/badge/Medium-juliogarciape-FF4500?style=for-the-badge&logo=medium&logoColor=white&labelColor=101010)]()
 [![Dev.to](https://img.shields.io/badge/Dev.to-juliogarciape-1DA1F2?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]()
-[![Gitlab](https://img.shields.io/badge/Gitlab-juliogarciape-fca326?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)]()
 [![Reddit](https://img.shields.io/badge/Reddit-juliogarciape-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=101010)]()
 [![Notion](https://img.shields.io/badge/Notion-juliogarciape-5865F2?style=for-the-badge&logo=Notion&logoColor=white&labelColor=101010)]()
 [![Paypal](https://img.shields.io/badge/Paypal-juliogarciape-5865F2?style=for-the-badge&logo=Paypal&logoColor=white&labelColor=101010)]()
