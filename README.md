@@ -7,12 +7,10 @@
 <h3>💖 About Me</h3>
 
 <ul>
-    <li>👨‍💻 I'm a Full Stack Developer</li>
+    <li>👨‍💻 I'm a Web Software Developer (Full Stack)</li>
     <li>🎓 Proud member of the <a target="_blank" href="https://education.github.com/pack">GitHub Student Developer Program</a> enjoying free access to Pro features.</li>
     <li>🌱 I'm currently learning about GraphQL and AWS</li>
-    <li>💬 Ask me about anything, I am happy to help</li>
-    <li>📖 **Computer Science** at **Universidad Nacional de San Agustín de Arequipa** (2019 - 2024)</li>
-    <li>📫 How to reach me:
+    <li>🇵🇪 I'm 21 and from Peru.</li>
 </ul>
 
 <h3>🌟 Technical Skills</h3>
