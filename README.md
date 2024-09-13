@@ -25,9 +25,9 @@
 <h3>📝 Recent Posts (Medium/Dev.to)</h3>
 
 <ol>
-    <li><a href="">How to Get Started with Python</a> - A beginner's guide to Python programming</li>
-    <li><a href="">10 Tips for Effective Blogging</a> - Strategies to improve your blogging skills</li>
-    <li><a href="">Understanding Machine Learning</a> - An introduction to the basics of machine learning</li>
+    <li><i><a href="">How to Get Started with Python - A beginner's guide to Python programming</a></i></li>
+    <li><i><a href="">10 Tips for Effective Blogging - Strategies to improve your blogging skills</a></i></li>
+    <li><i><a href="">Understanding Machine Learning - An introduction to the basics of machine learning</a></i></li>
 </ol>
 
 <h3>🚀 Published Packages (NPM)</h3>
