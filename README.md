@@ -4,7 +4,7 @@
 
 <div style="display: flex; align-items: center; height: 300px;">
 
-<img align="left" height="auto" width="320px" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
+<img align="left" height="300px" width="350px" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=prs,issues,contribs&show_icons=true&theme=radical&locale=en&border_radius=0)
 
