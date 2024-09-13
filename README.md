@@ -31,7 +31,7 @@
     <li><i><a href="">10 Tips for Effective Blogging - Strategies to improve your blogging skills</a></i></li>
 </ol>
 
-<h3>🚀 Published Packages (NPM)</h3>
+<h3>🎉 Published Packages (npm)</h3>
 
 [![Crypi](https://img.shields.io/badge/Crypi-214_Downloads-f7d746?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/crypi)
 [![Kick-DL](https://img.shields.io/badge/Kick--DL-178_downloads-d83a7c?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
@@ -45,7 +45,7 @@
     <img width="55%" src="https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=contribs&show_icons=true&theme=radical&locale=en&border_radius=0&include_all_commits=true&line_height=30" alt="Github Stats"/>
 </div>
 
-<h3>🌏 Contact Me</h3>
+<h3>🔗 Contact Me</h3>
 
 [![WebSite](https://img.shields.io/badge/WebSite-juliogarciape.live-39E09B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=101010)](https://juliogarciape.live)
 [![Gmail](https://img.shields.io/badge/Gmail-Personal-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)]()
