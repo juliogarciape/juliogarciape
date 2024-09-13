@@ -22,7 +22,6 @@
 [![Gitlab](https://img.shields.io/badge/Gitlab-@juliogarciamelgarejo-fca326?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)]()
 [![Reddit](https://img.shields.io/badge/Reddit-juliogarciape-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=101010)]()
 [![Link](https://img.shields.io/badge/Links-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
-
 [<img src="https://img.shields.io/badge/Gmail-FF4500?logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25"/>](mailto:juliogarciamelgarejo@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Julio_Garcia-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)]()
 [![Gmail](https://img.shields.io/badge/Gmail-juliogarciamelgarejo-D14836?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)]()
