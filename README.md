@@ -18,19 +18,25 @@
 <h3>🌟 Technical Skills</h3>
 
 <ul>
-    <li>Front-end development using **React**, **Next.js**, **TypeScript** and CSS (Tailwind, Sass) for styling </li>
-    <li>Backend development using **Node.js** (Express) for REST APIs and GraphQL, with **PostgreSQL** administration </li>
+    <li>Front-end: <b>React v18</b>, <b>Next.js v14</b>, <b>TypeScript v5</b>, <b>Tailwind CSS v3</b></li>
+    <li>Backend: <b>Node.js v18</b>, <b>Express JS v5</b>,  GraphQL,  **PostgreSQL** </li>
     <li> Proficient in Git workflows, Docker for containerization, and basic knowledge of AWS </li>
-    <li>Familiar with testing (Jest), Agile (Scrum), basic CI/CD, and best development practices</li>
+    <li>Familiar with testing (Jest),  basic CI/CD</li>
 </ul>
 
 <h3>🚀 Published Packages</h3>
 
 [![Kick-DL](https://img.shields.io/badge/Npm:_Kick--DL-500_downloads-44AF1F?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
-[![Kick-DL](https://img.shields.io/badge/Npm:_Crypi-300_Downloads-12ACF3?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
-[![Kick-DL](https://img.shields.io/badge/Npm:_Twitch--Rank-530_Downloads-8862cf?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/kick-dl)
+[![Kick-DL](https://img.shields.io/badge/Npm:_Crypi-300_Downloads-12ACF3?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/crypi)
+[![Kick-DL](https://img.shields.io/badge/Npm:_Twitch--Rank-530_Downloads-8862cf?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/twitch-rank)
 
 <h3>📝 Blog Posts</h3>
+
+Readymade Badge
+[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@username)
+Customizable Badge
+[![Medium Badge](https://img.shields.io/badge/@username-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@username)](https://medium.com/@username)
+
 
 - [Title](https://)
 - [Title](https://)
@@ -48,9 +54,9 @@
 [![WebSite](https://img.shields.io/badge/WebSite-juliogarciape.live-39E09B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=101010)](https://juliogarciape.live)
 [![Gmail](https://img.shields.io/badge/Gmail-Personal-D14836?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)]()
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-Personal-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white&labelColor=101010)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julio_Cesar_Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juliogarciape)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julio_Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juliogarciape)
 [![Resume](https://img.shields.io/badge/Resume-Julio_Garcia-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)]()
-[![Discord](https://img.shields.io/badge/Discord-@juliogarciape-5865F2?style=for-the-badge&logo=Discord&logoColor=white&labelColor=101010)]()
+[![Discord](https://img.shields.io/badge/Discord-juliogarciape-5865F2?style=for-the-badge&logo=Discord&logoColor=white&labelColor=101010)]()
 [![Slack](https://img.shields.io/badge/Slack-juliogarciape-5865F2?style=for-the-badge&logo=Slack&logoColor=white&labelColor=101010)]()
 [![Github](https://img.shields.io/badge/Github-Secondary-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![X](https://img.shields.io/badge/Twitter-juliogarciape-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/juliogarciape_)
