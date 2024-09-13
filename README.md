@@ -13,15 +13,30 @@
 
 ## You find me too :busts_in_silhouette: 
 
-[![Twitter](https://img.shields.io/badge/Twitter-@juliogarciape-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/juliogarciape_)
-[![Link](https://img.shields.io/badge/Links-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
-[<img src="https://img.shields.io/badge/LinkedIn-1976D2?logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25"/>](https://www.linkedin.com/in/juliogarciape/)
-[<img src="https://img.shields.io/badge/Gmail-FF4500?logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25"/>](mailto:juliogarciamelgarejo@gmail.com)
-[<img src="https://img.shields.io/badge/Medium-282C34?logo=medium&logoColor=white" alt="Medium logo" title="Medium" height="25"/>](https://medium.com/@juliogarciape)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julio_Cesar_Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juliogarciape)
 
-<!-- (button de cv) -->
+[![WebSite](https://img.shields.io/badge/WebSite-juliogarciape.live-39E09B?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://juliogarciape.live)
+
+[![X](https://img.shields.io/badge/Twitter-@juliogarciape-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/juliogarciape_)
+
+[![Medium](https://img.shields.io/badge/Medium-@juliogarciape-FF4500?style=for-the-badge&logo=medium&logoColor=white&labelColor=101010)]()
+
+[![Dev.to](https://img.shields.io/badge/Dev.to-@juliogarciape-1DA1F2?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]()
+
+[![Github](https://img.shields.io/badge/Alternate-@juliogarciamelgarejo-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+
+[![Gitlab](https://img.shields.io/badge/Gitlab-@juliogarciamelgarejo-fca326?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)]()
+
+[![Reddit](https://img.shields.io/badge/Reddit-juliogarciape-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=101010)]()
+
+[![Link](https://img.shields.io/badge/Links-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
+
+[<img src="https://img.shields.io/badge/Gmail-FF4500?logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25"/>](mailto:juliogarciamelgarejo@gmail.com)
+
+[![Resume](https://img.shields.io/badge/Resume-Julio_Garcia-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)]()
+
+[![Gmail](https://img.shields.io/badge/Gmail-juliogarciamelgarejo-D14836?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)]()
+
 
 ## 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
 
