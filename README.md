@@ -22,7 +22,7 @@
     <li>  in Git, Docker, AWS testing (Jest), CI/CD</li>
 </ul>
 
-<h3>📝 Recent Posts (Medium)</h3>
+<h3>📝 Recent Posts (Medium - Dev.to)</h3>
 
 <ol>
     <li><a href="">How to Get Started with Python</a> - A beginner's guide to Python programming</li>
@@ -36,7 +36,7 @@
 [![Kick-DL](https://img.shields.io/badge/Crypi-300_Downloads-12ACF3?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/crypi)
 [![Kick-DL](https://img.shields.io/badge/Twitch--Rank-530_Downloads-8862cf?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)](https://www.npmjs.com/package/twitch-rank)
 
-<h3>📊 Github Stats</h3>
+<h3>📊 Github Stats (@juliogarciape)</h3>
 
 <div align="center" width="100%">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliogarciape&show_icons=true&locale=en&theme=radical&layout=compact&hide_title=true" alt="Github Stats"/>
