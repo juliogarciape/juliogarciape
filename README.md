@@ -2,11 +2,9 @@
     <h1>👋 Hi there, I'm Julio Cesar Garcia 🤠</h1>
 </div>
 
-<br/>
+<img align="right" height="auto" width="50%" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
 
-<img align="right" height="auto" width="40%" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif"/>
-
-<h2>About Me 💖</h2>
+<h3>About Me 💖</h3>
 
 <ul>
     <li>👨‍💻 I'm a Full Stack Developer</li>
