@@ -6,7 +6,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=prs,issues,contribs&show_icons=true&theme=radical&locale=en&border_radius=0)
 
-<img align="right" height="auto" width="2000px" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" />
+<img align="right" height="auto" width="200px" alt="GIF" src="https://media.giphy.com/media/vWst8QUOKAot6MHEZe/giphy.gif" />
 
 ## About Me
 
