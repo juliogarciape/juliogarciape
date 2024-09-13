@@ -1,12 +1,8 @@
-<div align="center" width="200">
-
 # 👋 Hi, I'm Julio Cesar Garcia 👨🏻‍💻
 
 ## < Web Software Developer />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliogarciape&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)
-
-</div>
 
 ## Skills :nerd_face:
 
