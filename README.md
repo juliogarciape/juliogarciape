@@ -7,7 +7,7 @@
 Hi, I'm Julio Cesar Garcia
 Hi there, i'm Eduar!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=prs,issues,contribs&show_icons=true&theme=radical&locale=en&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliogarciape&show=prs_merged_percentage&hide=prs,issues,contribs&show_icons=true&theme=radical&locale=en&border_radius=0)
 
 </div>
 
