@@ -28,7 +28,7 @@
     <li><i><a href="">How to Get Started with Python - A beginner's guide to Python programming</a></i></li>
     <li><i><a href="">10 Tips for Effective Blogging - Strategies to improve your blogging skills</a></i></li>
     <li><i><a href="">Understanding Machine Learning - An introduction to the basics of machine learning</a></i></li>
-    <li><i><a target="_blank" href="https://medium.com/@juliogarciape/logros-en-github-descubre-como-desbloquear-achievements-ff239b13645c">🏆 Logros en GitHub: Descubre como Desbloquearlos 🔓 | Medium | September 2024</a></i></li>
+    <li><a target="_blank" href="https://medium.com/@juliogarciape/logros-en-github-descubre-como-desbloquear-achievements-ff239b13645c">🏆 Logros en GitHub: Descubre como Desbloquearlos 🔓 | Medium | September 2024</a></li>
 </ol>
 
 <h3>🎉 Published Packages (npm)</h3>
