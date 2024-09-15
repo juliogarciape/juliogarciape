@@ -25,10 +25,10 @@
 <h3>📝 Recent Posts</h3>
 
 <ol>
-    <li><a href="">How to Get Started with Python - A beginner's guide to Python programming</a></li>
-    <li><a href="">10 Tips for Effective Blogging - Strategies to improve your blogging skills</a></li>
-    <li><a href="">Understanding Machine Learning - An introduction to the basics of machine learning</a></li>
-    <li><a target="_blank" href="https://medium.com/@juliogarciape/logros-en-github-descubre-como-desbloquear-achievements-ff239b13645c">🏆 Logros en GitHub: Descubre como Desbloquearlos 🔓 | Medium | September 2024</a></li>
+    <li><a href="" target="_blank">How to Get Started with Python: A beginner's guide to Python programming</a></li>
+    <li><a href="" target="_blank">10 Tips for Effective Blogging: Strategies to improve your blogging skills</a></li>
+    <li><a href="" target="_blank">🤝 Contribuye al Open Source :  Envía Tu Primera Pull Request a React 🙀 | Medium | September 2024</a></li>
+    <li><a href="https://medium.com/@juliogarciape/logros-en-github-descubre-como-desbloquear-achievements-ff239b13645c" target="_blank">🏆 Logros en GitHub: Descubre como Desbloquearlos 🔓 | Medium | September 2024</a></li>
 </ol>
 
 <h3>🎉 Published Packages (npm)</h3>
