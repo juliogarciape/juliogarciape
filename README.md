@@ -27,8 +27,8 @@
 <ol>
     <li><a href="https://medium.com/@juliogarciape/contribuye-al-open-source-tu-primera-pull-request-ab479cf4b360" target="_blank">🤝 Contribuye al Open Source :  Envía Tu Primera Pull Request a React | Medium | September 2024</a></li>
     <li><a href="" target="_blank">How to Get Started with Python: A beginner's guide to Python programming | Dev.To | September 2024</a></li>
-    <li><a href="" target="_blank">10 Tips for Effective Blogging: Strategies to improve your blogging skills | Dev.To | September 2024</a></li>
     <li><a href="https://medium.com/@juliogarciape/logros-en-github-descubre-como-desbloquear-achievements-ff239b13645c" target="_blank">🏆 Logros en GitHub: Descubre como Desbloquearlos | Medium | September 2024</a></li>
+    <li><a href="" target="_blank">10 Tips for Effective Blogging: Strategies to improve your blogging skills | Dev.To | September 2024</a></li>
 </ol>
 
 <h3>🎉 Published Packages (npm)</h3>
