@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
     <h1>🤠 Hi there, I'm Julio Cesar Garcia</h1>
 </div>
 
