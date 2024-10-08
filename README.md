@@ -7,8 +7,8 @@
 <ul>
     <li>👨‍💻 I'm a Full Stack Software Developer</li>
     <li>🌱 Currently learning about AI and AWS</li>
-    <li>🎓 Proud member of the <a target="_blank" href="https://education.github.com/pack">GitHub Student Developer Program</a></li>
-    <li>🤝 This year, I started enjoying contributing to open source</li>
+    <li>🤝 Active open source contributor and member of the <a href="https://github.com/expressjs" target="_blank">@expressjs</a> organization</li>
+    <li>🎓 Former member of the <a target="_blank" href="https://education.github.com">GitHub Student Developer Program</a></li>
     <li>💼 Open to new opportunities in the tech industry</li>
 </ul>
 
