@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>🤠 Hi there, I'm Julio Cesar Garcia</h1>
+    <h1>🤠 Hello there, I'm Julio Cesar Garcia</h1>
 </div>
 
 <h3>💖 About Me</h3>
@@ -7,7 +7,7 @@
 <ul>
     <li>👨‍💻 I'm a Full Stack Software Developer</li>
     <li>🌱 Currently learning about AI and AWS</li>
-    <li>🤝 Active open source contributor and member of the <a href="https://github.com/expressjs" target="_blank">@expressjs</a> organization</li>
+    <li>🤝 Active open source contributor and proud member of the <a href="https://github.com/expressjs" target="_blank">@expressjs</a> organization</li>
     <li>🎓 Former member of the <a target="_blank" href="https://education.github.com">GitHub Student Developer Program</a></li>
     <li>💼 Open to new opportunities in the tech industry</li>
 </ul>
@@ -43,14 +43,13 @@
 
 <h3>🔔 Contact Me</h3>
 
-[![WebSite](https://img.shields.io/badge/WebSite-juliogarciape.live-39E09B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=101010)](https://juliogarciape.live/)
+[![WebSite](https://img.shields.io/badge/WebSite-juliogarciape.live-39E09B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=101010)](https://juliogarciape.live)
 [![Gmail](https://img.shields.io/badge/Gmail-Personal-D32F2F?style=for-the-badge&logo=Gmail&logoColor=white&labelColor=101010)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JULIOGARCIAPE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juliogarciape/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JULIOGARCIAPE-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juliogarciape)
 [![Resume](https://img.shields.io/badge/Resume-Julio_Garcia-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)]()
 [![Discord](https://img.shields.io/badge/Discord-juliogarciape-7289DA?style=for-the-badge&logo=Discord&logoColor=white&labelColor=101010)]()
 [![Slack](https://img.shields.io/badge/Slack-juliogarciape-E01E5A?style=for-the-badge&logo=Slack&logoColor=white&labelColor=101010)]()
-[![Github](https://img.shields.io/badge/Github-SECONDARY-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/juliogarciamelgarejo/)
-[![X](https://img.shields.io/badge/Twitter-JULIOGARCIAPE-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/juliogarciape_/)
+[![Github](https://img.shields.io/badge/Github-SECONDARY-FF4500?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/juliogarciamelgarejo)
+[![X](https://img.shields.io/badge/Twitter-JULIOGARCIAPE-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://x.com/juliogarciape_)
 [![Reddit](https://img.shields.io/badge/Reddit-juliogarciape-FF6F20?style=for-the-badge&logo=reddit&logoColor=white&labelColor=101010)]()
 [![Paypal](https://img.shields.io/badge/Paypal-juliogarciape-003087?style=for-the-badge&logo=Paypal&logoColor=white&labelColor=101010)]()
-
