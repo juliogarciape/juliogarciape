@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>🤠 Hello there, I'm Julio Cesar Garcia</h1>
+    <h1>🤠 I'm Julio Cesar Garcia</h1>
 </div>
 
 <h3>💖 About Me</h3>
